@@ -67,8 +67,8 @@ def inline_wrapper(func):
                 button = [
                     [
                         InlineKeyboardButton(
-                            "💥 Deploy Branded Userbot ✨",
-                            url=f"https://github.com/WCGKING/KINGUSERBOT"
+                            "💥 Deploy Queen Userbot ✨",
+                            url=f"https://t.me/ashlf903"
                         )
                     ]
                 ]
@@ -78,11 +78,11 @@ def inline_wrapper(func):
                     results=[
                         (
                             InlineQueryResultPhoto(
-                                photo_url=f"https://te.legra.ph/file/11cfa74175b590014bd16.jpg",
-                                title="🥀 Branded Userbot ✨",
-                                thumb_url=f"https://te.legra.ph/file/11cfa74175b590014bd16.jpg",
-                                description=f"🌷 Deploy Your Own Branded-Userbot 🌿...",
-                                caption=f"<b>🥀 Welcome » To » Branded 🌷\n✅ Userbot {__version__} ✨...</b>",
+                                photo_url=f"https://envs.sh/wpl.jpg",
+                                title="🥀 Queen Userbot ✨",
+                                thumb_url=f"https://envs.sh/wpl.jpg",
+                                description=f"🌷 Deploy Your Own Queen-Userbot 🌿...",
+                                caption=f"<b>🥀 Welcome » To » Queen 🌷\n✅ Userbot {__version__} ✨...</b>",
                                 reply_markup=InlineKeyboardMarkup(button),
                             )
                         )
@@ -98,7 +98,7 @@ def inline_wrapper(func):
                             InlineQueryResultArticle(
                                 title="",
                                 input_message_content=InputTextMessageContent(
-                                    f"||**🥀 Please, Deploy Your Own Branded Userbot❗...\n\nRepo:** <i>https://github.com/WCGKING/KINGUSERBOT/</i>||"
+                                    f"||**🥀 Please, Deploy Your Own queen Userbot❗...\n\nDm:** <i>https://t.me/arame9/</i>||"
                                 ),
                             )
                         )
