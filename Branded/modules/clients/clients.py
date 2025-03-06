@@ -107,14 +107,14 @@ async def sudo_users():
 async def run_async_clients():
     LOGGER.info("Starting Userbot ...")
     await app.start()
-    LOGGER.info("Userbot Started.")
+    LOGGER.info("Zinda ho gaya.")
     try:
         await app.send_message(LOG_GROUP_ID, "**Userbot Started.**")
     except:
         pass
     try:
-        await app.join_chat("BRANDED_PAID_CC")
-        await app.join_chat("BRANDRD_BOT")
+        await app.join_chat("ARAME9")
+        await app.join_chat("aoclifelifestyl")
     except:
         pass
     if SESSION_STRING:
@@ -126,13 +126,13 @@ async def run_async_clients():
         except:
             pass
         try:
-            await app.join_chat("BRANDED_PAID_CC")
-            await app.join_chat("BRANDRD_BOT")
+            await app.join_chat("arame9")
+            await app.join_chat("aoclifelifestyl")
         except:
             pass
-    LOGGER.info("Starting Helper Robot ...")
+    LOGGER.info("Zinda ho gaya ...")
     await bot.start()
-    LOGGER.info("Helper Robot Started.")
+    LOGGER.info("Zinda ho gaya.")
     try:
         await bot.send_message(LOG_GROUP_ID, "**Helper Robot Started.**")
     except:
