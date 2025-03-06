@@ -27,8 +27,8 @@
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ASIFXQUEEN/MISSQUEENUSERBOT2.0"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-[![GIF](https://github.com/ASIFXQUEEN/blob/main/WCGKING.gif)](https://github.com/ASIFXQUEEN)
-   [![𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚 ](https://github-stats-alpha.vercel.app/api?username=WCGKING "WCGKING")](https://github-stats-alpha.vercel.app/api?username=ASIFXQUEEN "ASIFXQUEEN")
+[![GIF](https://github.com/ASIFXQUEEN/blob/main/ASIFXQUEEN.gif)](https://github.com/ASIFXQUEEN)
+   [![𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚 ](https://github-stats-alpha.vercel.app/api?username=ASIFXQUEEN "ASIFXQUEEN")](https://github-stats-alpha.vercel.app/api?username=ASIFXQUEEN "ASIFXQUEEN")
 
 
 <h3 align="center">
