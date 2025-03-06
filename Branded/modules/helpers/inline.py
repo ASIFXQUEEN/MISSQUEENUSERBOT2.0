@@ -11,22 +11,22 @@ async def help_menu_logo(answer):
     if image:
         thumb_image = image
     else:
-        thumb_image = "https://te.legra.ph/file/11cfa74175b590014bd16.jpg"
+        thumb_image = "https://envs.sh/wpl.jpg"
     button = paginate_plugins(0, plugs, "help")
     answer.append(
         InlineQueryResultPhoto(
             photo_url=f"{thumb_image}",
             title="🥀 Help Menu ✨",
             thumb_url=f"{thumb_image}",
-            description=f"🥀 Open Help Menu Of Branded-Userbot ✨...",
+            description=f"🥀 Open Help Menu Of Queen-Userbot ✨...",
             caption=f"""
 **🥀 Welcome To Help Menu Of
-Branded Userbot » {__version__} ✨...
+Queen Userbot » {__version__} ✨...
 
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Branded](https://t.me/BRANDED_PAID_CC).**
+🌷Powered By : [MY GOD](https://t.me/Arame9).**
             """,
             reply_markup=InlineKeyboardMarkup(button),
         )
@@ -42,12 +42,12 @@ async def help_menu_text(answer):
             title="🥀 Help Menu ✨",
             input_message_content=InputTextMessageContent(f"""
 **🥀 Welcome To Help Menu Of
-Branded Userbot » {__version__} ✨...
+Queen Userbot » {__version__} ✨...
 
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Branded](https://t.me/BRANDED_PAID_CC).**""",
+🌷Powered By : [MY GOD](https://t.me/Arame9).**""",
             disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(button),
