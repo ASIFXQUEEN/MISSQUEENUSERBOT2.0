@@ -2,7 +2,7 @@
     ──「 𝗔𝗦𝗜𝗙𝗫𝗤𝗨𝗘𝗘𝗡 𝗫 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
 
 <p align="center">
-<a href="https://github.com/WCGKING/KINGUSERBOT"><img src="https://te.legra.ph/file/11cfa74175b590014bd16.jpg" height="270" width="480" alt="Branded-Userbot"/></a>
+<a href="https://github.com/ASIFXQUEEN/MISSQUEENUSERBOT2.0"><img src="https://envs.sh/bxx.jpg" height="270" width="480" alt="Branded-Userbot"/></a>
 </p>
 
 <h2 align="center">
