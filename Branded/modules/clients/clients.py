@@ -109,7 +109,7 @@ async def run_async_clients():
     await app.start()
     LOGGER.info("Zinda ho gaya.")
     try:
-        await app.send_message(LOG_GROUP_ID, "**Userbot Started.**")
+        await app.send_message(LOG_GROUP_ID, "**zinda ho gaya.**")
     except:
         pass
     try:
